@@ -1,2 +1,4 @@
 # myBAEKJOON
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+---
+2026년 4월 28일을 마지막으로 백준은 서비스를 종료한다.
+그래서 2026년 3학년을 시작하기 전 상협이와 함께 백준을 풀며 방학을 보냈던 시간을 추억하며 그동안 풀었던 문제들을 업로드한다.
